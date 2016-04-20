@@ -1,0 +1,100 @@
+div .title-bar {
+  width: 100%;
+  background-color: #26a69a;
+  box-shadow: 0px 3px 3px #757575; }
+  div .title-bar ul {
+    background: #26a69a;
+    font-family: 'Average', serif;
+    font-size: 3.5vw; }
+    div .title-bar ul li a {
+      color: #ffffff; }
+  div .title-bar .title-bar-left img {
+    height: 5vw; }
+
+.carousel {
+  position: relative; }
+  .carousel .title {
+    position: absolute; }
+    .carousel .title #slideOne, .carousel .title h1 {
+      margin-top: 20px;
+      margin-left: 40px;
+      font-family: 'Josefin Sans',sans-serif;
+      font-weight: 300;
+      font-size: 5vw;
+      color: #ef5350;
+      border-bottom: 1px solid #ef5350;
+      box-shadow: 0px 1px #f3817f;
+      text-shadow: 1px 1px 1px #f3817f; }
+    .carousel .title h3 {
+      margin-left: 40px;
+      margin-top: -10px;
+      font-family: 'Average',sans-serif;
+      font-weight: 500;
+      font-size: 15vw;
+      color: #ffffff; }
+    .carousel .title #slideTwo {
+      margin-top: 20px;
+      margin-left: 40px;
+      font-family: 'Josefin Sans',sans-serif;
+      font-weight: 300;
+      font-size: 5vw;
+      color: #26a69a;
+      border-bottom: 1px solid #26a69a;
+      box-shadow: 0px 1px #30d0c1;
+      text-shadow: 1px 1px 1px #30d0c1; }
+
+.resources .row p, .resources .row a {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #000000; }
+.resources .row h5 a, .resources .row h5 {
+  font-family: 'Average', serif;
+  font-weight: 700;
+  color: #26a69a; }
+
+.about p, .about a {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #000000; }
+.about #info h1 {
+  font-family: 'Average', serif;
+  font-weight: 700;
+  color: #26a69a;
+  font-size: 3vh; }
+.about #info p {
+  font-size: 1.7vh;
+  font-weight: 500; }
+.about #thanks .row, .about #thanks #me {
+  text-align: center;
+  font-size: 2vw;
+  font-weight: 500; }
+.about #thanks .row, .about #thanks #call {
+  font-size: 1.7vw;
+  font-weight: 500; }
+
+footer img, footer #logo {
+  height: 8vh; }
+
+.headerVid {
+  position: relative; }
+  .headerVid .vidTitle {
+    position: absolute; }
+    .headerVid .vidTitle h1 {
+      margin-top: 20px;
+      margin-left: 40px;
+      font-family: 'Josefin Sans',sans-serif;
+      font-weight: 300;
+      font-size: 5vw;
+      color: #ef5350;
+      border-bottom: 1px solid #ef5350; }
+    .headerVid .vidTitle h3 {
+      margin-left: 40px;
+      margin-top: -10px;
+      font-family: 'Average',sans-serif;
+      font-weight: 500;
+      font-size: 15vh;
+      color: #ffffff; }
+
+.carouselTwo div img {
+  padding: 20px;
+  height: 50vh; }
+
+/*# sourceMappingURL=site.css.map */
